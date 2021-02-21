@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\bin\Debug\DoAnSongSong.exe.config
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\bin\Debug\DoAnSongSong.exe
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\bin\Debug\DoAnSongSong.pdb
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.Form1.resources
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.Properties.Resources.resources
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.TaoDothiMoi.resources
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.exe
+C:\Users\DELL\Desktop\XuLyTinhToansongSong\DoAnSongSong\DoAnSongSong\obj\Debug\DoAnSongSong.pdb
